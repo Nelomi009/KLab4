@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Information</string>
+    <string name="full_name">Никита Черненко</string>
+    <string name="title">Студент</string>
+    <string name="phone">+7 (913) 288-96-63</string>
+    <string name="social">\@neldori</string>
+    <string name="email">nexusstail@gmail.com</string>
+</resources>
